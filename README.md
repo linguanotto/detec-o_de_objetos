@@ -78,9 +78,9 @@ As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na 
 
  ## 👥 Equipe  
     
-|    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
+|    Função     | Nome                                  |                                                                                                                                                      E-mail                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Dev  | Flavio Eduardo Linguanotto |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/flavio-linguanotto-b587361a4/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/linguanotto)      |
+| Dev  | Flavio Eduardo Linguanotto |      flavio.linguanotto@fatec.sp.gov.br      |
 
     
 → [Voltar ao topo](#topo)
