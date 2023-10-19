@@ -22,9 +22,34 @@ Este projeto visa o desenvolvimento de um código destinado à detecção de obj
 <span id="Documentação">    
 
 ## 📑 Documentação
-  
 
-Escrever aqui a Documentação
+Antes de começar, assegure-se de que o Python esteja instalado no seu sistema. O código foi desenvolvido em Python, portanto, é necessário ter uma versão do Python (de preferência Python 3.x) instalada.
+
+Em seguida, você precisará baixar o arquivo 'yolov3.weights' no seguinte link:
+
+<a href="https://drive.google.com/file/d/1PhkrRuzEMnYPU9IaNvEOs_6DE_qnaIej/view?usp=sharing">  Download do arquivo yolov3.weights </a>
+
+Após o download, certifique-se de mover o arquivo para a pasta 'yoloDados
+
+
+
+
+### Instale as Bibliotecas
+
+```
+pip install numpy
+```
+```
+pip install opencv-python-headless
+```
+```
+pip install winsound
+
+```
+
+Câmera Disponível: O código está configurado para usar a câmera com índice 1. Certifique-se de que uma câmera esteja disponível no seu sistema e acesse-a corretamente. Se você possui uma única câmera, pode configurá-la para 0.
+
+Após instalar as bibliotecas e garantir que os arquivos de configuração e o arquivo de nomes de classes estejam no lugar correto, você deve ser capaz de executar o programa com sucesso. Certifique-se de executar o código em um ambiente Python compatível com as bibliotecas e dependências mencionadas.
 
 📌Status do Projeto: **Em andamento** 🚧
 
