@@ -16,7 +16,7 @@
     
 ## 📑 Sobre o projeto
 
-Este projeto visa o desenvolvimento de um código destinado à detecção de objetos em expressões artísticas, com a capacidade de gerar uma trilha sonora que se harmonize com a cena. Ele foi criado como parte da participação dos alunos do SESI SP de Jacareí na competição FLR.
+Este projeto visa o desenvolvimento de um código destinado à detecção de objetos em expressões artísticas, com a capacidade de gerar uma trilha sonora que se harmonize com a cena. Ele foi criado como parte da participação dos alunos do SESI SP de Jacareí na competição FLL.
 
 
 <span id="Documentação">    
