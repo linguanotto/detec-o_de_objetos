@@ -81,6 +81,11 @@ As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na 
 |    Função     | Nome                                  |                                                                                                                                                      E-mail                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Dev  | Flavio Eduardo Linguanotto |      flavio.linguanotto@fatec.sp.gov.br      |
-
+| Dev  | Giovanna Santos de Oliveira |      ggoliv.16@gmail.com      |
+| Dev  | Breno Douglas Carneiro Gomes |     bdrbgomes@gmail.com     |
+| Dev  | Geovanna Rodrigues Mancilha |      mancilhageovanna@gmail.com    |
+| Dev  | Giovana Mendonça Raimundo |      gigimr10roblox@outlook.com     |
+| Dev  | Rafaela Teles Simões de Freitas |      rafaelatsfreitas@gmail.com   |
+| Dev  | Giovana Ramos de Oliveira |      giovanaramosoli05@gmail.com      |
     
 → [Voltar ao topo](#topo)
