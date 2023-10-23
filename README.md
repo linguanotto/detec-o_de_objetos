@@ -1,7 +1,7 @@
 <span id="topo">
 <div align="center">
     
-![banner]()
+![banner](https://github.com/linguanotto/Projeto_objetos_e_musica/blob/Master/imagem/capa_objeto_e_musica.jpg)
 
 </div>
     
@@ -60,7 +60,7 @@ Após instalar as bibliotecas e garantir que os arquivos de configuração e o a
 
 ## 📅 Evolução do projeto:
 
-Postar Evolução do projeto aqui
+![banner](https://github.com/linguanotto/Projeto_objetos_e_musica/blob/Master/imagem/objetos.jpg)
 
 
 → [Voltar ao topo](#topo)
