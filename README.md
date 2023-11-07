@@ -51,6 +51,13 @@ Câmera Disponível: O código está configurado para usar a câmera com índice
 
 Após instalar as bibliotecas e garantir que os arquivos de configuração e o arquivo de nomes de classes estejam no lugar correto, você deve ser capaz de executar o programa com sucesso. Certifique-se de executar o código em um ambiente Python compatível com as bibliotecas e dependências mencionadas.
 
+
+## 📑 Modificações 
+O código foi desenvolvido com o propósito de ser compartilhado, permitindo que outras pessoas o aprimorem, especialmente se houver limitações técnicas a serem superadas. Com esse objetivo em mente, a seguir destacam-se alguns pontos fundamentais no código.
+
+- Na linha 95, a frequência do sinal sonoro em Hertz está definida e pode ser facilmente ajustada.
+- Na linha 98, a duração do sinal, medida em milissegundos, também pode ser alterada conforme necessário.
+
 📌Status do Projeto: **Em andamento** 🚧
 
 
