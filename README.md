@@ -55,8 +55,8 @@ Após instalar as bibliotecas e garantir que os arquivos de configuração e o a
 ## 📑 Modificações 
 O código foi desenvolvido com o propósito de ser compartilhado, permitindo que outras pessoas o aprimorem, especialmente se houver limitações técnicas a serem superadas. Com esse objetivo em mente, a seguir destacam-se alguns pontos fundamentais no código.
 
-- Na linha 95, a frequência do sinal sonoro em Hertz está definida e pode ser facilmente ajustada.
-- Na linha 98, a duração do sinal, medida em milissegundos, também pode ser alterada conforme necessário.
+- Na linha 23, pode ser ajustado as notas para a musica desejada.
+- Na linha 62, a duração do sinal, medida em milissegundos, também pode ser alterada conforme necessário.
 
 📌Status do Projeto: **Em andamento** 🚧
 
