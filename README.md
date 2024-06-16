@@ -90,7 +90,6 @@ As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na 
 |    Função     | Nome                                  |                                                                                                                                                      E-mail                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Dev  | Flavio Eduardo Linguanotto |      flavio.linguanotto@fatec.sp.gov.br      |
-| Dev  |Endrew Ryan de Oliveira Bortoli |      endrew.ryan977@gmail.com      |
 | Membro da Equipe  | Giovanna Santos de Oliveira |      ggoliv.16@gmail.com      |
 | Membro da Equipe   | Breno Douglas Carneiro Gomes |     bdrbgomes@gmail.com     |
 | Membro da Equipe   | Geovanna Rodrigues Mancilha |      mancilhageovanna@gmail.com    |
